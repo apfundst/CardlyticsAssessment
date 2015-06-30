@@ -1,0 +1,5 @@
+/Users/drewpfundstein/Projects/Triangle/Triangle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/drewpfundstein/Projects/Triangle/Triangle/bin/Debug/Triangle.exe.mdb
+/Users/drewpfundstein/Projects/Triangle/Triangle/bin/Debug/Triangle.exe
+/Users/drewpfundstein/Projects/Triangle/Triangle/obj/x86/Debug/Triangle.exe
+/Users/drewpfundstein/Projects/Triangle/Triangle/obj/x86/Debug/Triangle.exe.mdb

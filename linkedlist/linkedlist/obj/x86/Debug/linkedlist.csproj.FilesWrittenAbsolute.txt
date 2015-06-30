@@ -1,0 +1,5 @@
+/Users/drewpfundstein/Projects/linkedlist/linkedlist/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/drewpfundstein/Projects/linkedlist/linkedlist/bin/Debug/linkedlist.exe.mdb
+/Users/drewpfundstein/Projects/linkedlist/linkedlist/bin/Debug/linkedlist.exe
+/Users/drewpfundstein/Projects/linkedlist/linkedlist/obj/x86/Debug/linkedlist.exe
+/Users/drewpfundstein/Projects/linkedlist/linkedlist/obj/x86/Debug/linkedlist.exe.mdb
